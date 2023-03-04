@@ -24,8 +24,9 @@ dropout = 0.2
 
 chars = [' ', ',', '_', '.', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
         'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
-class_map = {"0" : 0, "5" : 1, "7" : 2, "11" : 3, "15" : 4, "20" : 5, "30" : 6, "35" : 7, "40" : 8, "50" : 9, "60" : 10, "100" : 11, "120" : 12,
-            "150" : 13, "200" : 14, "240" : 15, "300" : 16, "500" : 17}
+class_map = {"Below Grade Details" : 0, "Partition Types" : 1, "Door Details" : 2, "Window Details" : 3, "Storefront Details" : 4,
+             "Roof Details" : 5, "Other Exterior Details" : 6, "Floor Details" : 7, "Casework Details" : 8, "Stair and Elevator Details" : 9,
+             "Ceiling Details" : 10, "Signage" : 11, "Other Interior Details" : 12, "ADA Details" : 13}
 
 # data loading
 def get_batch(split):
@@ -235,9 +236,9 @@ class XfmrModel(nn.Module):
 
         return logits, loss
 
-txt_path = "/workspaces/OLF-Data/OLFNetworkData.txt"
+txt_path = "/workspaces/OLF-Data/DEtailNetworkData.txt"
 
-path = "/workspaces/OLF-Data/OLFNetwork.pt"
+path = "/workspaces/OLF-Data/DetailNetwork.pt"
 model = XfmrModel()
 if os.path.isfile(path):
     statedict = torch.load(path)
