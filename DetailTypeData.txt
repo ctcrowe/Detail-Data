@@ -1,115 +1,123 @@
-Window Mullion Detail at Awning,Window Details
-PartitionType71ExtShaftWall,Partition Types
-HmDoorThresholdWoodFloorOutswing,Door Details
-PlanDetailAlumDoorJambPost,Door Details
-HmDoorThresholdConcFloor,Door Details
-SectionDetailWindowHeadDeepEifs,Window Details
-PlanDetailWindowJambDeepEifs,Window Details
-StorefrontSillEifs,Storefront Details
-ParkingStallSymbol,Other Exterior Details
-ResilientFloorBase1,Floor Details
-FloorIsolatedSlab,Floor Details
-WindowSillWoodFloorEifs,Window Details
-FloorSlabEdge,Floor Details
-SfcmTileBaseTransitionDetailStudentCommonsCafe,Floor Details
-SfcmTileBaseTransitionDetailStudentCommonsCafeCopy1,Floor Details
-BaseCabinetWithPullOutTrashDrawer2Wastebaskets,Casework Details
-FullHeightCabinet,Casework Details
-BaseCabinetAtCooktopOvenWHood,Casework Details
-BaseCabinetWSink,Casework Details
-TypicalUpperCabinetTrim,Casework Details
-KitchenCabinetPullDetail,Casework Details
-Type3,Partition Types
-PartitionTypeC,Partition Types
-SfcmTileWallBase,Floor Details
-SfcmTileWallBaseCopy1,Floor Details
-SfcmTileToExposedConc,Floor Details
-AluminumThreshold,Door Details
-BuiltUpSoundDoorSillExposedConcFloorToWoodFlooring,Door Details
-CarpetToConcreteFlushThresholds,Door Details
-AccessibilitySignage,Signage
-AccessibleCaseworkReq,Casework Details
-DoorDisabledAccessRequirements,Door Details
-DoorDisabledAccessRequirementsSlidingDoor,Door Details
-DrinkingFountainAlcove,Other Interior Details
-TypFixturesAccessoriesMountingHeightsStudentHousingShortTermFacultyHousingCommonUseRestrooms,Other Interior Details
-TypicalMountingHeightsAndLocations,Other Interior Details
-DoorJambAtNR1HrWall,Door Details
-DoorHeadAtNR1HrWall,Door Details
-TypicalHousingUnitSoffitDetailsAtSideSprinklerAndAirReturn,Ceiling Details
-VipPublicRestroomLightCoveDetail,Ceiling Details
-TypicalStudentHousingUnitSoffitAtAirSupplyGrille,Ceiling Details
-TypicalStudentHousingUnitSoffitDetailsAtLightFixtures,Ceiling Details
-'r'PartitionResilientWallSingleSided,Partition Types
-'m'PartitionCmuMasonryWall,Partition Types
-DoorJambAtConcreteWall,Door Details
-DoorHeadAtConcreteWall,Door Details
-DoorJambAt2HrWall,Door Details
-DoorHeadAt2HrWall,Door Details
-'g'Partition,Partition Types
-'h'Partition,Partition Types
-'r'PartitionResilientWallDoubleSided,Partition Types
-StandingSeamMeetalRoofDrainCondition,Roof Details
-StandingSeamMeetalRoofDrainConditionCopy1,Roof Details
-2HrEnclosureRescueAirPiping,Other Interior Details
-ElevatorCabControls,Stair and Elevator Details
-TypElevatorEntranceAccessibilityInfo,Stair and Elevator Details
-LapDetails,Roof Details
-TypFixturesAccessoriesMountingHeights,Other Interior Details
-AccessibleDoorRequirementsSlidingDoor,Door Details
-AccessibleDoorRequirements,Door Details
-TruncatedDomes,Other Exterior Details
-TypMountingHeightsAndLocation,Other Interior Details
-SignageGeneralNotes,Signage
-PathOfTravelSignage,Signage
-MiscSignage,Signage
-StairwayIdentification,Stair and Elevator Details
-ExitRouteSignage,Signage
-AssistiveListeningSystemSign,Signage
-Signage,Signage
-TypElevatorEntranceAccessibilityInfo,Stair and Elevator Details
-ElevatorCabControls,Stair and Elevator Details
-ElevatorCompliance,Stair and Elevator Details
-ParkingStall,Other Exterior Details
-AccessibleParkingStallSignage,Other Exterior Details
-ParkingStallSymbol,Other Exterior Details
-AdaCurbRamp,Other Exterior Details
-EntranceSignage,Signage
-SffdAb201ElevatorInformation,Stair and Elevator Details
-ElevatorCabControls1,Stair and Elevator Details
-TypElevatorEntranceAccessibilityInfo1,Stair and Elevator Details
-TypicalMountingHeightsAndLocations,Other Exterior Details
-AccessibilitySignage,Signage
-DoorManueveringClearances,Door Details
-SpaceBetweenConsecutiveDoors,Door Details
-DoorThresholdDetail,Door Details
-DoorSurfaceHardware,Door Details
-ElectricalDevices,Other Interior Details
-DoorAccessoriesMountingLocations,Door Details
-OverheadHazardsAtStairs,Stair and Elevator Details
-AccessibleRouteWidth,Other Interior Details
-WheelchairTurningSpace,Other Interior Details
-ForwardAndSideReachOverObstruction,Other Interior Details
-KneeAndToeSpace,Casework Details
-SiteAccessAndParking,Other Exterior Details
-Handrails,Stair and Elevator Details
-Stairs,Stair and Elevator Details
-Ramps,Stair and Elevator Details
-AccessibleParkingPavementSignage,Other Exterior Details
-UnauthorizedVehiclesSign,Other Exterior Details
-DetectableWarning,Other Exterior Details
-ParkingSign,Other Exterior Details
-AccessibleParkingStallSigns,Other Exterior Details
-GrabBarReinforcementToilet,Other Exterior Details
-BathtubShowerControls,Other Interior Details
-GrabBarReinforcementBathtub,Other Interior Details
-ShowerThreshold,Other Interior Details
-ShowerClearFloorSpace,Other Interior Details
-Partition Type X,Partition Types
-Partition Type X,Partition Types
-Partition Type Y,Partition Types
-Partition Type Z,Partition Types
-Partition Type X,Partition Types
+Window Mullion Detail at Awning,WINDOW DETAILS
+PartitionType71ExtShaftWall,PARTITION TYPES
+HmDoorThresholdWoodFloorOutswing,DOOR DETAILS
+PlanDetailAlumDoorJambPost,DOOR DETAILS
+HmDoorThresholdConcFloor,DOOR DETAILS
+SectionDetailWindowHeadDeepEifs,WINDOW DETAILS
+PlanDetailWindowJambDeepEifs,WINDOW DETAILS
+StorefrontSillEifs,STOREFRONT DETAILS
+ParkingStallSymbol,OTHER INTERIOR DETAILS
+ResilientFloorBase1,FLOOR DETAILS
+FloorIsolatedSlab,FLOOR DETAILS
+WindowSillWoodFloorEifs,WINDOW DETAILS
+FloorSlabEdge,FLOOR DETAILS
+SfcmTileBaseTransitionDetailStudentCommonsCafe,FLOOR DETAILS
+SfcmTileBaseTransitionDetailStudentCommonsCafeCopy1,FLOOR DETAILS
+BaseCabinetWithPullOutTrashDrawer2Wastebaskets,CASEWORK DETAILS
+FullHeightCabinet,CASEWORK DETAILS
+BaseCabinetAtCooktopOvenWHood,CASEWORK DETAILS
+BaseCabinetWSink,CASEWORK DETAILS
+TypicalUpperCabinetTrim,CASEWORK DETAILS
+KitchenCabinetPullDetail,CASEWORK DETAILS
+Type3,PARTITION TYPES
+PartitionTypeC,PARTITION TYPES
+SfcmTileWallBase,FLOOR DETAILS
+SfcmTileWallBaseCopy1,FLOOR DETAILS
+SfcmTileToExposedConc,FLOOR DETAILS
+AluminumThreshold,DOOR DETAILS
+BuiltUpSoundDoorSillExposedConcFloorToWoodFlooring,DOOR DETAILS
+CarpetToConcreteFlushThresholds,DOOR DETAILS
+AccessibilitySignage,SIGNAGE
+AccessibleCaseworkReq,CASEWORK DETAILS
+DoorDisabledAccessRequirements,DOOR DETAILS
+DoorDisabledAccessRequirementsSlidingDoor,DOOR DETAILS
+DrinkingFountainAlcove,OTHER INTERIOR DETAILS
+TypFixturesAccessoriesMountingHeightsStudentHousingShortTermFacultyHousingCommonUseRestrooms,OTHER INTERIOR DETAILS
+TypicalMountingHeightsAndLocations,OTHER INTERIOR DETAILS
+DoorJambAtNR1HrWall,DOOR DETAILS
+DoorHeadAtNR1HrWall,DOOR DETAILS
+TypicalHousingUnitSoffitDetailsAtSideSprinklerAndAirReturn,CEILING DETAILS
+VipPublicRestroomLightCoveDetail,CEILING DETAILS
+TypicalStudentHousingUnitSoffitAtAirSupplyGrille,CEILING DETAILS
+TypicalStudentHousingUnitSoffitDetailsAtLightFixtures,CEILING DETAILS
+'r'PartitionResilientWallSingleSided,PARTITION TYPES
+'m'PartitionCmuMasonryWall,PARTITION TYPES
+DoorJambAtConcreteWall,DOOR DETAILS
+DoorHeadAtConcreteWall,DOOR DETAILS
+DoorJambAt2HrWall,DOOR DETAILS
+DoorHeadAt2HrWall,DOOR DETAILS
+'g'Partition,PARTITION TYPES
+'h'Partition,PARTITION TYPES
+'r'PartitionResilientWallDoubleSided,PARTITION TYPES
+StandingSeamMeetalRoofDrainCondition,ROOF DETAILS
+StandingSeamMeetalRoofDrainConditionCopy1,ROOF DETAILS
+2HrEnclosureRescueAirPiping,OTHER INTERIOR DETAILS
+ElevatorCabControls,STAIR AND ELEVATOR DETAILS
+TypElevatorEntranceAccessibilityInfo,STAIR AND ELEVATOR DETAILS
+LapDetails,ROOF DETAILS
+TypFixturesAccessoriesMountingHeights,OTHER INTERIOR DETAILS
+AccessibleDoorRequirementsSlidingDoor,DOOR DETAILS
+AccessibleDoorRequirements,DOOR DETAILS
+TruncatedDomes,OTHER INTERIOR DETAILS
+TypMountingHeightsAndLocation,OTHER INTERIOR DETAILS
+SignageGeneralNotes,SIGNAGE
+PathOfTravelSignage,SIGNAGE
+MiscSignage,SIGNAGE
+StairwayIdentification,STAIR AND ELEVATOR DETAILS
+ExitRouteSignage,SIGNAGE
+AssistiveListeningSystemSign,SIGNAGE
+Signage,SIGNAGE
+TypElevatorEntranceAccessibilityInfo,STAIR AND ELEVATOR DETAILS
+ElevatorCabControls,STAIR AND ELEVATOR DETAILS
+ElevatorCompliance,STAIR AND ELEVATOR DETAILS
+ParkingStall,OTHER INTERIOR DETAILS
+AccessibleParkingStallSignage,OTHER INTERIOR DETAILS
+ParkingStallSymbol,OTHER INTERIOR DETAILS
+AdaCurbRamp,OTHER INTERIOR DETAILS
+EntranceSignage,SIGNAGE
+SffdAb201ElevatorInformation,STAIR AND ELEVATOR DETAILS
+ElevatorCabControls1,STAIR AND ELEVATOR DETAILS
+TypElevatorEntranceAccessibilityInfo1,STAIR AND ELEVATOR DETAILS
+TypicalMountingHeightsAndLocations,OTHER INTERIOR DETAILS
+AccessibilitySignage,SIGNAGE
+DoorManueveringClearances,DOOR DETAILS
+SpaceBetweenConsecutiveDoors,DOOR DETAILS
+DoorThresholdDetail,DOOR DETAILS
+DoorSurfaceHardware,DOOR DETAILS
+ElectricalDevices,OTHER INTERIOR DETAILS
+DoorAccessoriesMountingLocations,DOOR DETAILS
+OverheadHazardsAtStairs,STAIR AND ELEVATOR DETAILS
+AccessibleRouteWidth,OTHER INTERIOR DETAILS
+WheelchairTurningSpace,OTHER INTERIOR DETAILS
+ForwardAndSideReachOverObstruction,OTHER INTERIOR DETAILS
+KneeAndToeSpace,CASEWORK DETAILS
+SiteAccessAndParking,OTHER EXTERIOR DETAILS
+Handrails,STAIR AND ELEVATOR DETAILS
+Stairs,STAIR AND ELEVATOR DETAILS
+Ramps,STAIR AND ELEVATOR DETAILS
+AccessibleParkingPavementSignage,OTHER EXTERIOR DETAILS
+UnauthorizedVehiclesSign,OTHER EXTERIOR DETAILS
+DetectableWarning,OTHER EXTERIOR DETAILS
+ParkingSign,OTHER EXTERIOR DETAILS
+AccessibleParkingStallSigns,OTHER EXTERIOR DETAILS
+GrabBarReinforcementToilet,OTHER EXTERIOR DETAILS
+BathtubShowerControls,OTHER INTERIOR DETAILS
+GrabBarReinforcementBathtub,OTHER INTERIOR DETAILS
+ShowerThreshold,OTHER INTERIOR DETAILS
+ShowerClearFloorSpace,OTHER INTERIOR DETAILS
+Partition Type X,PARTITION TYPES
+Partition Type X,PARTITION TYPES
+Partition Type Y,PARTITION TYPES
+Partition Type Z,PARTITION TYPES
+Partition Type X,PARTITION TYPES
 FLOOR TRANSITION CP-1 TO T-2,FLOOR DETAILS
 FLOOR TRANSITION CP-1 TO T-2,FLOOR DETAILS
 FLOOR TRANSITION CP-1 TO T-2,FLOOR DETAILS
+(E) HM DOOR @ CORE W/ WD WALL PANELING HEAD,DOOR DETAILS
+(E) HM DOOR @ CORE W/ WD WALL PANELING JAMB,DOOR DETAILS
+(E) HM DOOR @ CORE W/ WD WALL PANELING SILL,DOOR DETAILS
+(E) HM DOOR W/ WD WALL PANELING JAMB,DOOR DETAILS
+1 HR FIRE RATED GWB CEILING,CEILING DETAILS
+A.C.P. SUPPORT GRID - DIRECTION CHANGE,CEILING DETAILS
+A.C.P. TO COLUMN FACE, TYP.,CEILING DETAILS
+A.C.P. TO CURTAIN WALL, TYP.,CEILING DETAILS

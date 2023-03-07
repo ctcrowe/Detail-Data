@@ -22,7 +22,7 @@ dropout = 0.2
 # ------------
 
 
-chars = [' ', ',', '_', '.', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+chars = [' ', ',', '_', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
         'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 class_map = {"BELOW GRADE DETAILS" : 0, "PARTITION TYPES" : 1, "DOOR DETAILS" : 2, "WINDOW DETAILS" : 3, "STOREFRONT DETAILS" : 4,
              "ROOF DETAILS" : 5, "OTHER EXTERIOR DETAILS" : 6, "FLOOR DETAILS" : 7, "CASEWORK DETAILS" : 8, "STAIR AND ELEVATOR DETAILS" : 9,
