@@ -110,3 +110,6 @@ Partition Type X,Partition Types
 Partition Type Y,Partition Types
 Partition Type Z,Partition Types
 Partition Type X,Partition Types
+FLOOR TRANSITION CP-1 TO T-2,FLOOR DETAILS
+FLOOR TRANSITION CP-1 TO T-2,FLOOR DETAILS
+FLOOR TRANSITION CP-1 TO T-2,FLOOR DETAILS
