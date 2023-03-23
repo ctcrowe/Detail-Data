@@ -284,11 +284,7 @@ def RunTraining():
                 print(f"test loss {test_loss} is the best so far, saving model to {path}")
                 torch.save(model.state_dict(), path)
                 best_loss = test_loss
-            
-            
-        #if step > 0 and step % 200 == 0:
-        #    print_samples(num=10)
-
+                
         step+=1
 
 while True:
