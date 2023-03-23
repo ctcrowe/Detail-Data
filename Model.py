@@ -300,6 +300,8 @@ while True:
             sample = get_Sample(text, True)
             X, Y = sample
             X = X.view(1, -1)
+            print(text)
+            print(X)
             logits, loss = model(X, Y)
             print(logits)
             max = torch.argmax(logits)
